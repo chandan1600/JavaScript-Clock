@@ -1,4 +1,20 @@
 /* Layout */
+
+/*header settings*/
+h1{
+    color: #000;
+    text-align: center;
+    background-color: #FF8C00;
+    top: 100px;
+
+}
+
+h3{
+    color: black;
+    text-align: center;
+    top: 100px;
+}
+
 .main {
     display: flex;
     padding: 2em;
